@@ -1,4 +1,4 @@
-Este proyecto es un sistema de gestión de inventarios para minoristas que utiliza Node.js y MongoDB para administrar productos, movimientos de inventario y tiendas. 
+API REST para la gestión de inventarios para minoristas que utiliza Node.js y MongoDB para administrar productos, movimientos de inventario y tiendas. 
 El sistema permite registrar productos, gestionar inventarios por tienda y realizar movimientos de stock entre tiendas
 
 Características
